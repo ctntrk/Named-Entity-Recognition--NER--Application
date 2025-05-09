@@ -34,7 +34,6 @@ def reset_form():
 
 st.title("📄 Named Entity Recognition (NER) Application")
 
-# Genişletilmiş Proje Bilgisi
 with st.expander("ℹ️ Project Information & Usage Guide", expanded= False):
     st.markdown(f"""
     ### About This Project
