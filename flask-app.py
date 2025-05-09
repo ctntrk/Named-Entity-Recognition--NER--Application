@@ -6,7 +6,6 @@ import re
 app = Flask(__name__)
 CORS(app)
 
-# İngilizce modeli yüklüyoruz
 model_name = "dslim/bert-base-NER"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 ner = pipeline(
