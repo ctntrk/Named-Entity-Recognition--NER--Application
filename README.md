@@ -75,16 +75,6 @@ streamlit run ner_app.py
 
 ---
 
-## ✅ Code Overview
-
-* `reset_form()`: Clears input and previous analysis results in the UI
-* `preprocess_text()`: Cleans and formats text for model input
-* `merge_hyphenated_entities()`: Merges related adjacent words into one entity
-* `analyze_text()`: Flask route that processes the text, runs inference, and returns a structured result
-* Frontend: Handles button events, calls the API, and renders styled output with HTML & CSS
-
----
-
 ## ⚠️ Known Limitations
 
 * Best performance on texts up to \~500 characters
