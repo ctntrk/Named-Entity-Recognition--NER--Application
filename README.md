@@ -2,6 +2,10 @@
 
 This project is a Named Entity Recognition (NER) application that identifies entities such as people, organizations, locations, and miscellaneous types from any given text. It provides an interactive and user-friendly web interface backed by a powerful BERT model and a simple REST API.
 
+## Named Entity Recognition (NER) Application Demo Introduction Video
+
+https://github.com/user-attachments/assets/85df1ee8-9ab4-4415-ba32-30c014527ade
+
 ---
 
 ## 🚀 Features
@@ -72,6 +76,26 @@ streamlit run ner_app.py
 2. 🔍 Click the **Analyze** button
 3. 📊 Results will appear grouped by entity type and include confidence levels
 4. 🧹 Click **Clear** to reset the input field
+
+
+## Named Entity Recognition (NER) Application Web Interface
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Named%20Entity%20Recognition%20(NER)%20Application%20Web%20Interface.jpg)
+
+## Result Screen After Analysis (Batch NER Groups)
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Result%20Screen%20After%20Analysis%20(Batch%20NER%20Groups).jpg)
+
+## Result Screen After Analysis (People)
+
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Result%20Screen%20After%20Analysis%20(People).jpg)
+
+## Result Screen After Analysis (Organizations)
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Result%20Screen%20After%20Analysis%20(Organizations).jpg)
+
+## Result Screen After Analysis (Locations)
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Result%20Screen%20After%20Analysis%20(Locations).jpg)
+
+## Result Screen After Analysis (Miscellaneous)
+![Alt text](https://github.com/ctntrk/Named-Entity-Recognition--NER--Application/blob/main/Result%20Screen%20After%20Analysis%20(Miscellaneous).jpg)
 
 ---
 
